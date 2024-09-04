@@ -46,3 +46,6 @@ Two algorithms were implemented to solve the classification problems:
 ### Multi-Layer Perceptron (MLP):
   - Implemented using both custom code and the scikit-learn library.
   - Hyperparameters include network architecture, learning rate, and activation functions.
+
+
+## The results are documented and compared to determine the most effective approach for each dataset.
